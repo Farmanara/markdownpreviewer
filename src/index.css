@@ -1,0 +1,13 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 10px;
+}
+
+#preview{
+    border: 1px solid skyblue;
+    padding: 1rem;
+}
+#editor {
+    padding-top: 2rem;
+}
